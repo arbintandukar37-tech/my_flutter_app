@@ -42,7 +42,9 @@ Follow these steps to get a copy of the project up and running on your local mac
 ## Screenshot 📱
 
 ![HabitFlow Screenshot](Screenshot_2026-08-29-17-17-20-664_com.aistudio.habittracker.qkxp.jpg)
+
 ![HabitFlow Screenshot](Screenshot_2026-08-29-17-17-23-229_com.aistudio.habittracker.qkxp.jpg)
+
 ![HabitFlow Screenshot](Screenshot_2026-08-29-17-17-28-833_com.aistudio.habittracker.qkxp.jpg
 )
 
