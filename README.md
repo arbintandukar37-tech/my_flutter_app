@@ -9,14 +9,13 @@
 > A minimalist, cross-platform habit tracking application built with Flutter to help you focus entirely on your personal growth.
 
 [![Flutter Version](https://img.shields.io/badge/flutter-%3E%3D3.10.0-blue.svg)](https://flutter.dev)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://contribute.goodfirstissue.dev/open-source/beginner)
 
 ---
 
 ## ✨ Key Features
 
-* **Cross-Platform Power:** Built with Flutter for a buttery-smooth 60+ FPS experience on iOS, Android, and Web.
+* **Cross-Platform Power:** Built with Flutter for a buttery-smooth 60+ FPS experience on Android, and Web.
 * **Flexible Scheduling:** Track habits daily, weekly, or on specific custom days of the week.
 * **Streak Tracking & Analytics:** Visualize your consistency over time with clean statistical breakdowns.
 * **Smart Reminders:** Local notifications tailored to your routine so you never miss a habit.
@@ -24,25 +23,19 @@
 * **Local-First Privacy:** Your data stays securely on your device, keeping your personal goals completely private.
 
 ---
-
-## 🛠️ Tech Stack
-
-* **Framework:** [Flutter](https://flutter.dev) (Dart)
-* **State Management:** Riverpod / Bloc *(Update to match your stack)*
-* **Local Database:** Isar / Hive *(Update to match your stack)*
-* **Notifications:** `flutter_local_notifications`
-
----
-
 ## 🚀 Getting Started
 
-Follow these steps to get a copy of the project up and running on your local machine for development and testing purposes.
+Follow these steps to get a copy of the project up and running on your local machine.
 
 ### Prerequisites
 
-* Make sure you have the [Flutter SDK](https://docs.flutter.dev/get-started/install) installed.
-* Verify your setup by running:
+- Install the [Flutter SDK](https://docs.flutter.dev/get-started/install).
+- Verify your setup by running:
+
   flutter doctor
+ 
+---
+
 
 ## 🤝 Contributing
 
@@ -57,10 +50,6 @@ If you have a suggestion that would make this better, please fork the repo and c
 5. Open a Pull Request
 
 ---
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
